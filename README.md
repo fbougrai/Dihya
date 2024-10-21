@@ -1,13 +1,71 @@
-<h1 align="center">Hi 👋, I'm fatima zahra bougraine</h1>
-<h3 align="center">A passionate backend developer</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My GitHub Profile! 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fbougrai" alt="fbougrai" /></a> </p>
+    <h2>About Me</h2>
+    <p>
+        I’m a passionate Back-End Developer with a strong focus on building scalable and efficient web applications. I thrive on solving complex problems and enjoy working with a variety of technologies. My primary expertise lies in Python and Django, but I'm always eager to learn and explore new frameworks and tools.
+    </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    <h2>🚀 Skills</h2>
+    <ul>
+        <li><strong>Languages:</strong> Python, JavaScript, SQL</li>
+        <li><strong>Frameworks:</strong> Django, Flask, FastAPI</li>
+        <li><strong>Databases:</strong> PostgreSQL, MySQL, MongoDB</li>
+        <li><strong>Tools:</strong> Git, Docker, Postman</li>
+        <li><strong>Other:</strong> RESTful APIs, GraphQL, OAuth2, JWT Authentication</li>
+    </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fbougrai&show_icons=true&locale=en&layout=compact" alt="fbougrai" /></p>
+    <h2>🔧 Projects</h2>
+    <ul>
+        <li><a href="https://github.com/yourusername/project1">Project Name 1</a> - A brief description of what this project does and the technologies used.</li>
+        <li><a href="https://github.com/yourusername/project2">Project Name 2</a> - A brief description of what this project does and the technologies used.</li>
+        <li><a href="https://github.com/yourusername/project3">Project Name 3</a> - A brief description of what this project does and the technologies used.</li>
+    </ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fbougrai&show_icons=true&locale=en" alt="fbougrai" /></p>
+    <h2>🌱 Currently Learning</h2>
+    <p>
+        I’m currently diving into <a href="https://www.blockchain.com/">Blockchain Technology</a> and exploring how it can be integrated into web applications. I’m also interested in improving my knowledge of <a href="https://graphql.org/">GraphQL</a> and asynchronous programming in Python.
+    </p>
 
+    <h2>🤝 Let's Connect</h2>
+    <p>
+        I love collaborating with fellow developers and exploring new opportunities. Feel free to reach out to me:
+    </p>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a></li>
+        <li><a href="https://twitter.com/yourusername">Twitter</a></li>
+    </ul>
+
+    <p>Thank you for visiting my profile! 🚀</p>
+</body>
+</html>
